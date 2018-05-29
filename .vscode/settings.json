@@ -1,0 +1,5 @@
+{
+    "key": "ctrl+shift+alt+t",
+    "command": "workbench.action.tasks.terminate",
+    "git.ignoreLimitWarning": true
+}
